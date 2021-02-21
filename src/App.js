@@ -52,6 +52,7 @@ function App() {
 		if (!result) {
 			setNotFound(true);
 			setLoading(false);
+			setSearching(false);
 			return;
 		} else {
 			setPokemons([result]);
