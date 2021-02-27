@@ -1,6 +1,6 @@
 # react-pokedex
 
-A pokedex made with React JS, Tailwind CSS and PokeAPI
+A pokedex made with React JS, Tailwind CSS and PokeAPI ⚛️
 
 ## Usage:
 
